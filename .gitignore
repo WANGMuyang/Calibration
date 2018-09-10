@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+*.db
+
+ipch/
+
+x64/
+
+ArUco/Debug/
+
+*.MP4
